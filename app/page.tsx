@@ -236,13 +236,13 @@ export default function Home() {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              <button 
+              {/* <button 
                 onClick={handleLogin}
                 className="px-6 sm:px-8 py-2 sm:py-3 bg-gradient-to-r from-yellow-400 to-yellow-500 text-white rounded-lg shadow-lg hover:from-yellow-500 hover:to-yellow-600 transition duration-300 font-medium flex items-center mx-auto"
               >
                 <FaSignInAlt className="mr-2" />
                 เริ่มต้นใช้งาน
-              </button>
+              </button> */}
             </motion.div>
           </motion.div>
         </div>
